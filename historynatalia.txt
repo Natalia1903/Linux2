@@ -1,0 +1,11 @@
+   0 cd/tmp/
+   1 cd /tmp/
+   2 df -h
+   3 nano natalia.sh
+   4 ./natalia
+   5 ./natalia.sh
+   6 chmod +x n
+   7 chmod +x natalia.sh 
+   8 ./natalia.sh
+   9 nano natalia.sh
+  10 history > /tmp/historynatalia.txt
